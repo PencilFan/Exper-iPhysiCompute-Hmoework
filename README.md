@@ -1,7 +1,7 @@
-# Exper-iPhysiCompute-Hmoework
+# Experi-PhysiCompute-Hmoework
 文件对应关系
 1. C_Pi
-   <br>用C语言计算$\pi$
+   <br>用C语言计算$\Pi$
 2. Python_Pi
    <br>用Python计算$\pi$
 3. Charged_Ring

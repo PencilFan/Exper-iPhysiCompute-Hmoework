@@ -1,4 +1,4 @@
-# Experi-PhysiCompute-Hmoework
+# Experi-PhysiCompute-Homework
 文件对应关系
 1. C_Pi
    <br>用C语言计算π
